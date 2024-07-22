@@ -71,6 +71,5 @@ Go to [Cases](/CoC/Cases) to learn about how reports to the Committee are proces
 
 
 ### Details
-*¹ - Misleading or abusive use of the email address will be prosecuted
-
+*¹ - Misleading or abusive use of the email address will be prosecuted \n
 *² - Every event or project organiser is mentioned in the readme file of the project
