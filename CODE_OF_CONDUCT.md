@@ -43,11 +43,11 @@ Examples include but are not limited to:
 ## Report a problem
 
 ***In case of threats of harm and other urgent situations**, notify the relevant authorities first (if possible) and 
-[email*¹](mailto:david.thomas.stuewe@gmail.com) me (David).*
+[email](mailto:david.thomas.stuewe@gmail.com) *¹ me (David).*
 
 People who experience or observe unacceptable behavior are encouraged to follow any of these steps:
 1. Ask the person who is behaving unacceptably to stop. Make them aware of this Code of Conduct
-2. If you are at an event, report the problem to the event organisers*², or a designated contact
+2. If you are at an event, report the problem to the event organisers *², or a designated contact
 3. Report the problem directly to the [Code of Conduct Committee](/CoC/Committee) via the [Discord](https://discord.gg/hWhcQ5T). You can also
    send a report to the Committee if you reported an incident elsewhere but were not satisfied with the response
 
@@ -67,3 +67,9 @@ Reports can be as short as a nitification with a link, but more information will
 Reports are processed confidentially. For more information, see [Committee](/CoC/Committee).
 
 Go to [Cases](/CoC/Cases) to learn about how reports to the Committee are processed.
+
+
+
+### Details
+*¹ - Misleading or abusive use of the email address will be prosecuted
+*² - Every event or project organiser is mentioned in the readme file of the project
