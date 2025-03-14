@@ -88,4 +88,4 @@ The Committee regularly reviews the handling of cases to:
 
 ---
 
-For questions about this process, please contact the [Code of Conduct Committee](/CoC/Committee).
+For questions about this process, please contact the [Code of Conduct Committee](/CoC/Committee.md).
