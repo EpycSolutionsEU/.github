@@ -37,7 +37,7 @@ Examples include but are not limited to:
   encouraged
 - Using the code of conduct system for purposes other than reporting genuine violations of the code of conduct (e.g., retaliating against
   a reporter or victim by filing a report claiming their response was harassment)
-- Attempting to circumvent a decision of the [Committee](/CoC/Committee), e.g. unblocking someone during a period the Committee banned them
+- Attempting to circumvent a decision of the [Committee](/CoC/Committee.md), e.g. unblocking someone during a period the Committee banned them
 
 
 ## Report a problem
@@ -48,7 +48,7 @@ Examples include but are not limited to:
 People who experience or observe unacceptable behavior are encouraged to follow any of these steps:
 1. Ask the person who is behaving unacceptably to stop. Make them aware of this Code of Conduct
 2. If you are at an event, report the problem to the event organisers *², or a designated contact
-3. Report the problem directly to the [Code of Conduct Committee](/CoC/Committee) via the [Discord](https://discord.gg/hWhcQ5T). You can also
+3. Report the problem directly to the [Code of Conduct Committee](/CoC/Committee.md) via the [Discord](https://discord.gg/hWhcQ5T). You can also
    send a report to the Committee if you reported an incident elsewhere but were not satisfied with the response
 
 
@@ -64,9 +64,9 @@ Reports can be as short as a notification with a link, but more information will
 - Links to public records of the incident, if any
 - Screenshots showing what exactly happened
 
-Reports are processed confidentially. For more information, see [Committee](/CoC/Committee).
+Reports are processed confidentially. For more information, see [Committee](/CoC/Committee.md).
 
-Go to [Cases](/CoC/Cases) to learn about how reports to the Committee are processed.
+Go to [Cases](/CoC/Cases.md) to learn about how reports to the Committee are processed.
 
 
 
