@@ -1,7 +1,7 @@
 name: 'Documentation Request'
 description: 'Suggest any idea for this project'
 title: '[DOCS] '
-labels: ['documenation']
+labels: ['documentation']
 
 body:
   - type: markdown
