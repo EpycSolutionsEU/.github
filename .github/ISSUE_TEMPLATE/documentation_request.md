@@ -22,5 +22,5 @@ Explain why this documentation improvement would be valuable to users or contrib
 Provide any references, examples, or resources that might help in improving the documentation.
 
 ## Acknowledgment
-- [ ] I have read and agree to follow the [EpycSolutions Code of Conduct](/CODE_OF_CONDUCT.md)
+- [ ] I have read and agree to follow the [EpycSolutions Code of Conduct](https://github.com/EpycSolutionsEU/.github/blob/main/CODE_OF_CONDUCT.md)
 - [ ] I understand that this project is licensed under the EpycSolutions Public Source License
