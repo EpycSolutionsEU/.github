@@ -1,0 +1,75 @@
+name: 'Bug Report'
+description: 'Create a bug-report to help us improve the project'
+title: '[BUG] '
+labels: ['bug']
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+
+        Please search open/closed issues before submitting. Someone
+        might have asked the same thing before!
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: A brief description of the issue.
+      placeholder: |
+        When I ____, I expected ____ to happen but ____ happend instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Steps to reproduce the behavior.
+      placeholder: |
+        1. Go to '...'
+        2. Click on '...'
+        3. Scroll down to '...'
+        4. See error
+    validations:
+      required: true
+  - type: select
+    id: software
+    attributes:
+      label: Used software
+      description: The software you your bug ocurred.
+      options:
+        - '@aconitum/utils'
+  - type: checkboxes
+    id: 'operation-system'
+    attributes:
+      label: Operation system
+      description: The operation system you are using.
+      options:
+        - label: Linux
+        - label: MacOS
+        - label: Windows
+  - type: input
+    id: browser
+    attributes:
+      label: Browser
+      description: The browser you are using.
+      placeholder: 'Google Chrome 93'
+    validations:
+      required: false
+  - type: textarea
+    id: 'additional-information'
+    attributes:
+      label: Additional information
+      description: Additional information about the problem.
+      placeholder: |
+        I tried to do X, but it failed.
+
+  - type: checkboxes
+    id: acknowledgment
+    attributes:
+      label: Acknowledgment
+      options:
+        - label: I have read and agree the follow the [EpycSolutions Code of Conduct](https://github.com/EpycSolutionsEU/.github/blob/main/CODE_OF_CONDUCT.md)
+          required: true
+        - label: I understand that this project is licensed under the EpycSolutions Public Source License
+          reqzured: true
