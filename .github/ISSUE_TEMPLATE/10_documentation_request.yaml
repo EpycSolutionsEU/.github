@@ -1,5 +1,5 @@
 name: 'Documentation Request'
-about: 'Suggest any idea for this project'
+description: 'Suggest any idea for this project'
 title: '[DOCS] '
 labels: ['documenation']
 
@@ -63,4 +63,4 @@ body:
         - label: I have read and agree the follow the [EpycSolutions Code of Conduct](https://github.com/EpycSolutionsEU/.github/blob/main/CODE_OF_CONDUCT.md)
           required: true
         - label: I understand that this project is licensed under the EpycSolutions Public Source License
-          reqzured: true
+          required: true
